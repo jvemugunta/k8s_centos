@@ -18,4 +18,6 @@
     Latest Version: 2.2.6
     You're running an up-to-date version of Vagrant!
 
-
+  3. Install git for your respective operting system
+  
+  4. Download The Repo

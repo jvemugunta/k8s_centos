@@ -20,7 +20,7 @@
 
   3. Install git for your respective operting system
   
-  4. Download The Repo  
+  4. clone this Repo with all of the files needs for your vagrant project
   
     git clone https://github.com/jvemugunta/k8s_centos.git
     
